@@ -1,0 +1,35 @@
+# 🏆 Calculadora de Partidas Rankeadas
+
+Projeto desenvolvido como desafio da DIO.
+
+## 🚀 Tecnologias utilizadas
+- JavaScript
+- Node.js
+
+## 🎯 Objetivo
+Calcular o saldo de vitórias de um jogador e determinar seu nível com base na quantidade de vitórias.
+
+## 🧠 Conceitos aplicados
+- Variáveis
+- Operadores
+- Estruturas condicionais
+- Funções
+- Entrada de dados pelo terminal
+
+## 📊 Regras de Classificação
+
+| Vitórias | Nível |
+|----------|--------|
+| <= 10 | Ferro |
+| 11 - 20 | Bronze |
+| 21 - 50 | Prata |
+| 51 - 80 | Ouro |
+| 81 - 90 | Diamante |
+| 91 - 100 | Lendário |
+| >= 101 | Imortal |
+
+## ▶️ Como executar
+
+1. Instale o Node.js
+2. Execute no terminal:
+
